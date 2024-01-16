@@ -1,0 +1,244 @@
+id,name,continent,region,currency
+AD,Andorra,Europe,"Southern Europe",EUR
+AE,"United Arab Emirates",Asia,"Middle East",AED
+AF,Afghanistan,Asia,"Southern and Central Asia",AFA
+AG,"Antigua and Barbuda","North America",Caribbean,XCD
+AI,Anguilla,"North America",Caribbean,XCD
+AL,Albania,Europe,"Southern Europe",ALL
+AM,Armenia,Asia,"Middle East",AMD
+AN,"Netherlands Antilles","North America",Caribbean,ANG
+AO,Angola,Africa,"Central Africa",USD
+AQ,Antarctica,Antarctica,Antarctica,XCD
+AR,Argentina,"South America","South America",ARS
+AS,"American Samoa",Oceania,Polynesia,USD
+AT,Austria,Europe,"Western Europe",EUR
+AU,Australia,Oceania,"Australia and New Zealand",AUD
+AW,Aruba,"North America",Caribbean,AWG
+AZ,Azerbaijan,Asia,"Middle East",AZM
+BA,"Bosnia and Herzegovina",Europe,"Southern Europe",EUR
+BB,Barbados,"North America",Caribbean,BBD
+BD,Bangladesh,Asia,"Southern and Central Asia",BDT
+BE,Belgium,Europe,"Western Europe",EUR
+BF,"Burkina Faso",Africa,"Western Africa",XOF
+BG,Bulgaria,Europe,"Eastern Europe",EUR
+BH,Bahrain,Asia,"Middle East",BHD
+BI,Burundi,Africa,"Eastern Africa",BIF
+BJ,Benin,Africa,"Western Africa",XOF
+BL,"Saint Barthelemy","North America",Caribbean,USD
+BM,Bermuda,"North America","North America",BMD
+BN,Brunei,Asia,"Southeast Asia",USD
+BO,Bolivia,"South America","South America",BOB
+BQ,"Bonaire, Sint Eustatius and Saba",Oceania,Caribbean,USD
+BR,Brazil,"South America","South America",BRL
+BS,Bahamas,"North America",Caribbean,BSD
+BT,Bhutan,Asia,"Southern and Central Asia",BTN
+BW,Botswana,Africa,"Southern Africa",BWP
+BY,Belarus,Europe,"Eastern Europe",USD
+BZ,Belize,"North America","Central America",BZD
+CA,Canada,"North America","North America",CAD
+CC,"Cocos Islands",Oceania,"Australia and New Zealand",AUD
+CD,"Congo, The Democratic Republic of the",Africa,"Central Africa",USD
+CF,"Central African Republic",Africa,"Central Africa",XAF
+CG,Congo,Africa,"Central Africa",XAF
+CH,Switzerland,Europe,"Western Europe",CHF
+CI,"Cote dIvoire",Africa,"Western Africa",USD
+CK,"Cook Islands",Oceania,Polynesia,NZD
+CL,Chile,"South America","South America",CLP
+CM,Cameroon,Africa,"Central Africa",XAF
+CN,China,Asia,"Eastern Asia",CNY
+CO,Colombia,"South America","South America",COP
+CR,"Costa Rica","North America","Central America",CRC
+CU,Cuba,"North America",Caribbean,CUP
+CV,"Cape Verde",Africa,"Western Africa",CVE
+CW,Curaçao,,,USD
+CX,"Christmas Island",Oceania,"Australia and New Zealand",AUD
+CY,Cyprus,Asia,"Middle East",EUR
+CZ,"Czech Republic",Europe,"Eastern Europe",EUR
+DE,Germany,Europe,"Western Europe",EUR
+DJ,Djibouti,Africa,"Eastern Africa",DJF
+DK,Denmark,Europe,"Nordic Countries",DKK
+DM,Dominica,"North America",Caribbean,XCD
+DO,"Dominican Republic","North America",Caribbean,DOP
+DZ,Algeria,Africa,"Northern Africa",DZD
+EC,Ecuador,"South America","South America",USD
+EE,Estonia,Europe,"Baltic Countries",EEK
+EG,Egypt,Africa,"Northern Africa",EGP
+EH,"Western Sahara",Africa,"Northern Africa",MAD
+ER,Eritrea,Africa,"Eastern Africa",ERN
+ES,Spain,Europe,"Southern Europe",EUR
+ET,Ethiopia,Africa,"Eastern Africa",ETB
+FI,Finland,Europe,"Nordic Countries",EUR
+FJ,"Fiji Islands",Oceania,Melanesia,USD
+FK,"Falkland Islands","South America","South America",USD
+FM,"Micronesia, Federated States of",Oceania,Micronesia,USD
+FO,"Faroe Islands",Europe,"Faroe Islands",DKK
+FR,France,Europe,"Western Europe",EUR
+GA,Gabon,Africa,"Central Africa",XAF
+GB,"United Kingdom",Europe,"British Islands",GBP
+GD,Grenada,"North America",Caribbean,XCD
+GE,Georgia,Asia,"Middle East",GEL
+GF,"French Guiana","South America","South America",EUR
+GG,Guernsey,Europe,Europe,USD
+GH,Ghana,Africa,"Western Africa",GHC
+GI,Gibraltar,Europe,"Southern Europe",GIP
+GL,Greenland,"North America","North America",DKK
+GM,Gambia,Africa,"Western Africa",GMD
+GN,Guinea,Africa,"Western Africa",GNF
+GP,Guadeloupe,"North America",Caribbean,USD
+GQ,"Equatorial Guinea",Africa,"Central Africa",XAF
+GR,Greece,Europe,"Southern Europe",EUR
+GT,Guatemala,"North America","Central America",USD
+GU,Guam,Oceania,Micronesia,USD
+GW,Guinea-Bissau,Africa,"Western Africa",USD
+GY,Guyana,"South America","South America",GYD
+HM,"Heard Island and McDonald Islands",Antarctica,Antarctica,AUD
+HN,Honduras,"North America","Central America",HNL
+HR,Croatia,Europe,"Southern Europe",HRK
+HT,Haiti,"North America",Caribbean,HTG
+HU,Hungary,Europe,"Eastern Europe",HUF
+ID,Indonesia,Asia,"Southeast Asia",IDR
+IE,Ireland,Europe,"British Islands",EUR
+IL,Israel,Asia,"Middle East",ILS
+IN,India,Asia,"Southern and Central Asia",INR
+IQ,Iraq,Asia,"Middle East",IQD
+IR,Iran,Asia,"Southern and Central Asia",IRR
+IS,Iceland,Europe,"Nordic Countries",ISK
+IT,Italy,Europe,"Southern Europe",EUR
+JM,Jamaica,"North America",Caribbean,JMD
+JO,Jordan,Asia,"Middle East",JOD
+JP,Japan,Asia,"Eastern Asia",JPY
+KE,Kenya,Africa,"Eastern Africa",KES
+KG,Kyrgyzstan,Asia,"Southern and Central Asia",KGS
+KH,Cambodia,Asia,"Southeast Asia",KHR
+KI,Kiribati,Oceania,Micronesia,AUD
+KM,Comoros,Africa,"Eastern Africa",KMF
+KN,"Saint Kitts and Nevis","North America",Caribbean,USD
+KP,"North Korea",Asia,"Eastern Asia",USD
+KR,"South Korea",Asia,"Eastern Asia",USD
+KW,Kuwait,Asia,"Middle East",KWD
+KY,"Cayman Islands","North America",Caribbean,KYD
+KZ,Kazakstan,Asia,"Southern and Central Asia",USD
+LA,Laos,Asia,"Southeast Asia",LAK
+LB,Lebanon,Asia,"Middle East",LBP
+LC,"Saint Lucia","North America",Caribbean,XCD
+LI,Liechtenstein,Europe,"Western Europe",CHF
+LK,"Sri Lanka",Asia,"Southern and Central Asia",LKR
+LR,Liberia,Africa,"Western Africa",LRD
+LS,Lesotho,Africa,"Southern Africa",LSL
+LT,Lithuania,Europe,"Baltic Countries",LTL
+LU,Luxembourg,Europe,"Western Europe",EUR
+LV,Latvia,Europe,"Baltic Countries",LVL
+LY,"Libyan Arab Jamahiriya",Africa,"Northern Africa",USD
+MA,Morocco,Africa,"Northern Africa",MAD
+MC,Monaco,Europe,"Western Europe",EUR
+MD,Moldova,Europe,"Eastern Europe",MDL
+ME,Montenegro,Europe,"Southern Europe",USD
+MF,"Saint Martin",Oceania,Caribbean,USD
+MG,Madagascar,Africa,"Eastern Africa",USD
+MH,"Marshall Islands",Oceania,Micronesia,USD
+MK,Macedonia,Europe,"Southern Europe",MKD
+ML,Mali,Africa,"Western Africa",XOF
+MM,Myanmar,Asia,"Southeast Asia",USD
+MN,Mongolia,Asia,"Eastern Asia",MNT
+MO,Macau,Asia,China,USD
+MP,"Northern Mariana Islands",Oceania,Micronesia,USD
+MQ,Martinique,"North America",Caribbean,USD
+MR,Mauritania,Africa,"Western Africa",MRO
+MS,Montserrat,"North America",Caribbean,XCD
+MT,Malta,Europe,"Southern Europe",MTL
+MU,Mauritius,Africa,"Eastern Africa",MUR
+MV,Maldives,Asia,"Southern and Central Asia",USD
+MW,Malawi,Africa,"Eastern Africa",MWK
+MX,Mexico,"North America","Central America",MXN
+MY,Malaysia,Asia,"Southeast Asia",MYR
+MZ,Mozambique,Africa,"Eastern Africa",MZM
+NA,Namibia,Africa,"Southern Africa",NAD
+NC,"New Caledonia",Oceania,Melanesia,USD
+NE,Niger,Africa,"Western Africa",XOF
+NF,"Norfolk Island",Oceania,"Australia and New Zealand",AUD
+NG,Nigeria,Africa,"Western Africa",NGN
+NI,Nicaragua,"North America","Central America",USD
+NL,Netherlands,Europe,"Western Europe",EUR
+NO,Norway,Europe,"Nordic Countries",NOK
+NP,Nepal,Asia,"Southern and Central Asia",NPR
+NR,Nauru,Oceania,Micronesia,AUD
+NU,Niue,Oceania,Polynesia,NZD
+NZ,"New Zealand",Oceania,"Australia and New Zealand",NZD
+OM,Oman,Asia,"Middle East",OMR
+PA,Panama,"North America","Central America",PAB
+PE,Peru,"South America","South America",PEN
+PF,"French Polynesia",Oceania,Polynesia,USD
+PG,"Papua New Guinea",Oceania,Melanesia,PGK
+PH,Philippines,Asia,"Southeast Asia",PHP
+PK,Pakistan,Asia,"Southern and Central Asia",PKR
+PL,Poland,Europe,"Eastern Europe",EUR
+PM,"Saint Pierre and Miquelon","North America","North America",EUR
+PN,Pitcairn,Oceania,Polynesia,USD
+PR,"Puerto Rico","North America",Caribbean,USD
+PS,Palestine,Asia,"Middle East",USD
+PT,Portugal,Europe,"Southern Europe",EUR
+PW,Palau,Oceania,Micronesia,USD
+PY,Paraguay,"South America","South America",PYG
+QA,Qatar,Asia,"Middle East",QAR
+RE,Reunion,Africa,"Eastern Africa",USD
+RO,Romania,Europe,"Eastern Europe",ROL
+RS,Serbia,Europe,"Southern Europe",USD
+RU,"Russian Federation",Europe,"Eastern Europe",RUB
+RW,Rwanda,Africa,"Eastern Africa",RWF
+SA,"Saudi Arabia",Asia,"Middle East",SAR
+SB,"Solomon Islands",Oceania,Melanesia,SBD
+SC,Seychelles,Africa,"Eastern Africa",SCR
+SD,Sudan,Africa,"Northern Africa",SDD
+SE,Sweden,Europe,"Nordic Countries",SEK
+SG,Singapore,Asia,"Southeast Asia",SGD
+SH,"Saint Helena",Africa,"Western Africa",SHP
+SI,Slovenia,Europe,"Southern Europe",SIT
+SJ,"Svalbard and Jan Mayen",Europe,"Nordic Countries",USD
+SK,Slovakia,Europe,"Eastern Europe",SKK
+SL,"Sierra Leone",Africa,"Western Africa",SLL
+SM,"San Marino",Europe,"Southern Europe",USD
+SN,Senegal,Africa,"Western Africa",XOF
+SO,Somalia,Africa,"Eastern Africa",USD
+SR,Suriname,"South America","South America",SRG
+ST,"Sao Tome and Principe",Africa,"Central Africa",USD
+SV,"El Salvador","North America","Central America",SVC
+SX,"Sint Maarten",Oceania,Caribbean,USD
+SY,Syria,Asia,"Middle East",SYP
+SZ,Swaziland,Africa,"Southern Africa",SZL
+TC,"Turks and Caicos Islands","North America",Caribbean,USD
+TD,Chad,Africa,"Central Africa",XAF
+TF,"French Southern territories",Antarctica,Antarctica,EUR
+TG,Togo,Africa,"Western Africa",XOF
+TH,Thailand,Asia,"Southeast Asia",THB
+TJ,Tajikistan,Asia,"Southern and Central Asia",USD
+TK,Tokelau,Oceania,Polynesia,NZD
+TL,"East Timor",Asia,"Southeast Asia",USD
+TM,Turkmenistan,Asia,"Southern and Central Asia",TMM
+TN,Tunisia,Africa,"Northern Africa",TND
+TO,Tonga,Oceania,Polynesia,TOP
+TR,Turkey,Asia,"Middle East",TRL
+TT,"Trinidad and Tobago","North America",Caribbean,TTD
+TV,Tuvalu,Oceania,Polynesia,AUD
+TW,Taiwan,Asia,"Eastern Asia",TWD
+TZ,Tanzania,Africa,"Eastern Africa",TZS
+UA,Ukraine,Europe,"Eastern Europe",UAH
+UG,Uganda,Africa,"Eastern Africa",USD
+UM,"United States Minor Outlying Islands",Oceania,Micronesia/Caribbean,USD
+US,"United States","North America","North America",USD
+UY,Uruguay,"South America","South America",USD
+UZ,Uzbekistan,Asia,"Southern and Central Asia",UZS
+VA,"Holy See (Vatican City State)",Europe,"Southern Europe",USD
+VC,"Saint Vincent and the Grenadines","North America",Caribbean,USD
+VE,Venezuela,"South America","South America",USD
+VG,"Virgin Islands, British","North America",Caribbean,USD
+VI,"Virgin Islands, U.S.","North America",Caribbean,USD
+VN,Vietnam,Asia,"Southeast Asia",VND
+VU,Vanuatu,Oceania,Melanesia,VUV
+WF,"Wallis and Futuna",Oceania,Polynesia,USD
+WS,Samoa,Oceania,Polynesia,WST
+XK,Kosovo,Europe,"Eastern Europe",USD
+YE,Yemen,Asia,"Middle East",YER
+YT,Mayotte,Africa,"Eastern Africa",EUR
+ZA,"South Africa",Africa,"Southern Africa",ZAR
+ZM,Zambia,Africa,"Eastern Africa",ZMK
+ZW,Zimbabwe,Africa,"Eastern Africa",ZWD

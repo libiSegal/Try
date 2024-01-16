@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.Instant.Mishor.Data", "com.Instant.Mishor.Data\com.Instant.Mishor.Data.csproj", "{6C5FD824-F14B-403D-A6FD-4464E9836B12}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.Instant.Mishor.Data.Entities", "com.Instant.Mishor.Data.Entities\com.Instant.Mishor.Data.Entities.csproj", "{757B35C7-7EAF-419F-905B-3205F2FC186F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.Instant.Mishor.Program", "com.Instant.Mishor.Program\com.Instant.Mishor.Program.csproj", "{101A7D97-9643-44FB-A2D4-4F4C8B0AFB4A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.Medici.WebApi", "com.Medici.WebApi\com.Medici.WebApi.csproj", "{4C7F12A0-712C-46D6-816D-2A0ABE78AB69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.Instant.Mishor.Net.Clients", "com.Instant.Mishor.Net.Clients\com.Instant.Mishor.Net.Clients.csproj", "{6010E29E-0C4C-4702-BF3F-5274E4FAD029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C5FD824-F14B-403D-A6FD-4464E9836B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5FD824-F14B-403D-A6FD-4464E9836B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5FD824-F14B-403D-A6FD-4464E9836B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5FD824-F14B-403D-A6FD-4464E9836B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{757B35C7-7EAF-419F-905B-3205F2FC186F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757B35C7-7EAF-419F-905B-3205F2FC186F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757B35C7-7EAF-419F-905B-3205F2FC186F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757B35C7-7EAF-419F-905B-3205F2FC186F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101A7D97-9643-44FB-A2D4-4F4C8B0AFB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101A7D97-9643-44FB-A2D4-4F4C8B0AFB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101A7D97-9643-44FB-A2D4-4F4C8B0AFB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101A7D97-9643-44FB-A2D4-4F4C8B0AFB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7F12A0-712C-46D6-816D-2A0ABE78AB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7F12A0-712C-46D6-816D-2A0ABE78AB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7F12A0-712C-46D6-816D-2A0ABE78AB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7F12A0-712C-46D6-816D-2A0ABE78AB69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6010E29E-0C4C-4702-BF3F-5274E4FAD029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6010E29E-0C4C-4702-BF3F-5274E4FAD029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6010E29E-0C4C-4702-BF3F-5274E4FAD029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6010E29E-0C4C-4702-BF3F-5274E4FAD029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCCCEF90-088B-4BFF-8CB2-54B1EDBD3E95}
+	EndGlobalSection
+EndGlobal
